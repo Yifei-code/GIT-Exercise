@@ -1,9 +1,11 @@
-echo "# GIT-Exercise" >> README.md
-git init
-git add README.md
-git commit -m "Initial commit" commit
-git branch -M main）
-git remote add origin https://github.com/Yifei-code/GIT-Exercise.git  
-git push -u origin main）
+I created a Git repository on GitHub.
+I then invited Nikola via WhatsApp.
+He then used this command: git clone "insert link" and git pull to confirm his repository was up to date.
+I created a readme.md file in the repository and pushed it to the server using the following commands:
+git add "README.md"
+Git commit -m "Initial commit"
+Git push
 
-
+group:
+Yifei Zhu
+Nikola Benic
